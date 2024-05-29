@@ -44,31 +44,20 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>留言板</title>
       <link href="/comment/index.html"/>
       <url>/comment/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,20 +77,31 @@
     
     
     <entry>
-      <title>我的大宝贝</title>
-      <link href="/picture/index.html"/>
-      <url>/picture/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<p class='p center logo large'>我的大宝贝</p><p><img src="https://s2.loli.net/2024/05/29/wcJbLEr9OKqFtZY.jpg" alt=""><br><img src="https://s2.loli.net/2024/05/29/wcJbLEr9OKqFtZY.jpg" alt=""><br><img src="https://s2.loli.net/2024/05/29/hbOCv3I142TBJKM.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>我的大宝贝</title>
+      <link href="/picture/index.html"/>
+      <url>/picture/index.html</url>
+      
+        <content type="html"><![CDATA[<p class='p center logo large'>我的大宝贝</p><p><img src="https://s2.loli.net/2024/05/29/wcJbLEr9OKqFtZY.jpg" alt=""><br><img src="https://s2.loli.net/2024/05/29/IrmJPjTHysQRhuU.jpg" alt=""><br><img src="https://s2.loli.net/2024/05/29/hbOCv3I142TBJKM.jpg" alt=""></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
