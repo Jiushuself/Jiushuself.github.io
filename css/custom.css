@@ -4,7 +4,7 @@
     width: 16px;
     height: 16px;
     /* 这里改变跟随的底色 */
-    background: var(--theme-color);
+    background: rgb(57, 197, 187);
     border-radius: 8px;
     opacity: 0.25;
     z-index: 10086;
@@ -134,6 +134,10 @@
   top: 0;
 }
 
+
+:root {
+  --ichika-color: #49A6E9;
+}
 
 /* 欢迎信息 */
 #welcome-info {
